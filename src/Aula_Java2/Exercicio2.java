@@ -1,8 +1,8 @@
-package Java_aula2;
+package Aula_Java2;
 
 import java.util.Scanner;
 
-public class idade2 {
+public class Exercicio2 {
 
 	public static void main(String[] args) {
 		// Exercicio 2
