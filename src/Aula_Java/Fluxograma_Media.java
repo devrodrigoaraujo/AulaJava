@@ -30,17 +30,17 @@ public class Fluxograma_Media {
 				
 		        double nota1,nota2,nota3,nota4,media;
 				
-				Scanner leia = new Scanner (System.in);
+				Scanner leia1 = new Scanner (System.in);
 				
 				
 				System.out.println("\nEntre com a primeira nota:");
-				nota1= leia.nextDouble();
+				nota1= leia1.nextDouble();
 				System.out.println("\nEntre com a segunda nota:");
-				nota2= leia.nextDouble();
+				nota2= leia1.nextDouble();
 				System.out.println("\nEntre com a terceira nota:");
-				nota3= leia.nextDouble();
+				nota3= leia1.nextDouble();
 				System.out.println("\nEntre com a quarta nota:");
-				nota4= leia.nextDouble();
+				nota4= leia1.nextDouble();
 				
 				media= (nota1+nota2+nota3+nota4)/4;
 				
